@@ -1,2 +1,2 @@
-var example = 123456789;
-console.log(example);
+var demoNum = 123456789;
+console.log(demoNum);
