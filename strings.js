@@ -1,2 +1,2 @@
-var somestring ='this is a strig';
-console.log(somestring);
+var demostring ='this is a string';
+console.log(demostring);
